@@ -5,8 +5,8 @@ const style = {
   li: `flex justify-between bg-slate-200 p-4 my-2 capitalize`,
   liComplete: `flex justify-between bg-slate-400 p-4 my-2 capitalize`,
   row: `flex`,
-  text: `ml-2 cursor-pointer`,
-  textComplete: `ml-2 cursor-pointer line-through`,
+  text: `ml-2 cursor-pointer text-l`,
+  textComplete: `ml-2 cursor-pointer line-through text-l`,
   button: `cursor-pointer flex items-center`,
 };
 
